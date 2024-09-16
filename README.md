@@ -141,6 +141,8 @@ fastqc
 - Always make sure your Conda environment is activated (`conda activate Basic_protocol_1`) when running commands.
 - If FastQC is not recognized in your PATH, revisit the steps for adding it to your PATH.
 
+```
+
 ### Key Explanations:
 - **Conda**: Manages environments and dependencies to ensure tools don't conflict with each other.
 - **sra-tools**: Essential for fetching publicly available sequence data from SRA.
