@@ -1,6 +1,5 @@
 # Metagenomics: MAG (Metagenome-Assembled Genome)
 
-```markdown
 # Basic Protocol 1: MAG Data Processing Workflow
 
 This README outlines the steps to set up and run a basic protocol for MAG data processing using `sra-tools`, `fastp`, and `FastQC`. These tools are critical for fetching, cleaning, and validating the quality of sequencing data. Each tool/package plays a specific role in ensuring the integrity and usability of the sequence data for downstream analysis.
@@ -140,8 +139,6 @@ fastqc
 - Ensure that Conda is correctly installed on your system before proceeding.
 - Always make sure your Conda environment is activated (`conda activate Basic_protocol_1`) when running commands.
 - If FastQC is not recognized in your PATH, revisit the steps for adding it to your PATH.
-
-```
 
 ### Key Explanations:
 - **Conda**: Manages environments and dependencies to ensure tools don't conflict with each other.
