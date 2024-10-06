@@ -117,7 +117,7 @@ If you encounter issues running FastQC, you may need to make the application exe
 chmod +x /Applications/FastQC.app/Contents/MacOS/fastqc
 ```
 
-Now you can run FastQC from any directory by simply typing:
+Run FastQC from any directory by simply typing:
 ```bash
 fastqc
 ```
